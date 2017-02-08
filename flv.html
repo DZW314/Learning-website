@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="flv/dist/flv.min.js"></script>
+</head>
+<body>
+
+<video id="videoElement" controls autoplay width="1024" height="576"></video>
+<!--<div class="controls">-->
+    <!--&lt;!&ndash;<button onclick="flv_load()">加载</button>&ndash;&gt;-->
+    <!--<button onclick="flvStart()">开始</button>-->
+    <!--<button onclick="flvPause()">暂停</button>-->
+    <!--<button onclick="flvDestroy()">停止</button>-->
+    <!--<input style="width:100px" type="text" name="seekpoint" />-->
+    <!--<button onclick="flvSeekto()">跳转</button>-->
+<!--</div>-->
+
+<script>
+    var videoElement = document.getElementById('videoElement');
+    if (flvjs.isSupported()) {
+        var flvPlayer = flvjs.createPlayer({
+            type: 'flv',
+            url: 'resource/Dracula2000.flv'
+        });
+        flvPlayer.attachMediaElement(videoElement);
+        flvPlayer.load();
+        flvPlayer.play();
+    }
+
+    function flvStart() {
+        videoElement.play();
+    }
+
+    function flvPause() {
+        videoElement.pause();
+    }
+
+    function flvDestroy() {
+        videoElement.pause();
+        videoElement.unload();
+        videoElement.detachMediaElement();
+        videoElement.destroy();
+        videoElement = null;
+    }
+
+    function flvSeekto() {
+        videoElement.currentTime = parseFloat(document.getElementsByName('seekpoint')[0].value);
+    }
+</script>
+
+</body>
+</html>
