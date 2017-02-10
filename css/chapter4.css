@@ -36,3 +36,7 @@ img {
     display: block;
     clear: both;
 }
+
+#imagegallery li {
+    display: inline-flex;
+}
