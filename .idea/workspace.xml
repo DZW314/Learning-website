@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="6fcad658-73ef-457d-8294-e461684883aa" name="Default" comment="">
+=======
+    <list default="true" id="6fcad658-73ef-457d-8294-e461684883aa" name="Default" comment="add chapter9.js">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+>>>>>>> Stashed changes
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="websitegit.iws" />
@@ -24,6 +29,7 @@
     <favorites_list name="websitegit" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <splitter split-orientation="horizontal" split-proportion="0.45915493">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -93,13 +99,85 @@
         </leaf>
       </split-second>
     </splitter>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chapter7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter9.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter9.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter9.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/chapter9.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter11.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter11.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter9.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/chapter9.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc;n#addClass#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> Stashed changes
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< Updated upstream
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+=======
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -131,10 +209,14 @@
         <option value="$PROJECT_DIR$/chapter9.html" />
         <option value="$PROJECT_DIR$/css/chapter9.css" />
         <option value="$PROJECT_DIR$/js/chapter9.js" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/css/chapter10.css" />
         <option value="$PROJECT_DIR$/js/insertAfter.js" />
         <option value="$PROJECT_DIR$/chapter10.html" />
         <option value="$PROJECT_DIR$/js/chapter10.js" />
+=======
+        <option value="$PROJECT_DIR$/chapter11.html" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -145,8 +227,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -167,15 +251,8 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -192,61 +269,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
+              <option name="myItemId" value="website" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="websitegit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="website" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
@@ -255,6 +305,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -402,6 +453,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -424,7 +481,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -474,8 +531,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486547386522</updated>
       <workItem from="1486547388146" duration="30314000" />
+<<<<<<< Updated upstream
       <workItem from="1487423820414" duration="31021000" />
       <workItem from="1488284678776" duration="7530000" />
+=======
+      <workItem from="1487423820414" duration="26640000" />
+      <workItem from="1488354503949" duration="1023000" />
+      <workItem from="1488355769723" duration="42000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="chapter8 and chapter9">
       <created>1488023348439</created>
@@ -491,17 +554,27 @@
       <option name="project" value="LOCAL" />
       <updated>1488031146166</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00003" summary="add chapter9.css &#10;finish chapter9">
       <created>1488115780759</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1488115780759</updated>
+=======
+    <task id="LOCAL-00003" summary="add chapter11.html">
+      <created>1488355433087</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1488355433087</updated>
+>>>>>>> Stashed changes
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="68865000" />
   </component>
   <component name="ToolWindowManager">
@@ -513,19 +586,35 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2433735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="58019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35861322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -541,8 +630,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter8 and chapter9" />
     <MESSAGE value="add chapter9.js" />
+<<<<<<< Updated upstream
     <MESSAGE value="add chapter9.css &#10;finish chapter9" />
     <option name="LAST_COMMIT_MESSAGE" value="add chapter9.css &#10;finish chapter9" />
+=======
+    <MESSAGE value="add chapter11.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter11.html" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,6 +645,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/resource/timg.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -578,34 +673,149 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/chapter7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chapter9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/chapter9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc;n#addClass#0" expanded="false" />
+          </folding>
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+=======
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chapter9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/chapter9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc;n#addClass#0" expanded="false" />
+          </folding>
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/addLoadEvent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/getHTTPObject.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/getNewContent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
+<<<<<<< Updated upstream
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+=======
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chapter4.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< Updated upstream
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< Updated upstream
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -615,14 +825,18 @@
     <entry file="file://$PROJECT_DIR$/flv/dist/flv.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< Updated upstream
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10787" column="10" selection-start-line="10787" selection-start-column="10" selection-end-line="10787" selection-end-column="10" />
+          <caret line="10787" column="10" lean-forward="false" selection-start-line="10787" selection-start-column="10" selection-end-line="10787" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -630,7 +844,11 @@
     <entry file="file://$PROJECT_DIR$/flv/dist/flv.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15">
+<<<<<<< Updated upstream
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
@@ -640,29 +858,40 @@
     <entry file="file://$PROJECT_DIR$/flv.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+<<<<<<< Updated upstream
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+=======
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-530">
+<<<<<<< Updated upstream
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+=======
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap-flex.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
+<<<<<<< Updated upstream
           <caret line="6762" column="27" selection-start-line="6762" selection-start-column="27" selection-end-line="6762" selection-end-column="27" />
+=======
+          <caret line="6762" column="27" lean-forward="false" selection-start-line="6762" selection-start-column="27" selection-end-line="6762" selection-end-column="27" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flv/dist/flv.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="3180" column="8" selection-start-line="3180" selection-start-column="8" selection-end-line="3180" selection-end-column="8" />
-          <folding />
+          <caret line="3180" column="8" lean-forward="false" selection-start-line="3180" selection-start-column="8" selection-end-line="3180" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -670,85 +899,129 @@
     <entry file="file://$PROJECT_DIR$/example.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< Updated upstream
           <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+=======
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/chapter7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+<<<<<<< Updated upstream
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+=======
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/showpic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding />
+          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-275">
+<<<<<<< Updated upstream
           <caret line="44" column="94" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="94" />
+=======
+          <caret line="44" column="94" lean-forward="false" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="94" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
+<<<<<<< Updated upstream
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+=======
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter7.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+=======
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-          <folding />
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/getHTTPObject.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
+<<<<<<< Updated upstream
           <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+=======
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/getNewContent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
+<<<<<<< Updated upstream
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+=======
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chapter4.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
+<<<<<<< Updated upstream
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+=======
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/addLoadEvent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
+<<<<<<< Updated upstream
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+=======
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/displayAbbreviations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
+<<<<<<< Updated upstream
           <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc;n#displayAbbreviations#0" expanded="false" />
@@ -779,6 +1052,18 @@
           <folding>
             <element signature="n#!!doc;n#addClass#0" expanded="false" />
           </folding>
+=======
+          <caret line="107" column="24" lean-forward="false" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9.js" />
+    <entry file="file://$PROJECT_DIR$/chapter8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -824,14 +1109,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chapter10.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="135">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
@@ -850,6 +1136,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+=======
+        <state relative-caret-position="190">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="n#!!doc;n#insertAfter#0" expanded="false" />
           </folding>
@@ -858,12 +1148,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter10.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="165">
           <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+=======
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/js/chapter10.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -878,6 +1174,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/chapter11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
