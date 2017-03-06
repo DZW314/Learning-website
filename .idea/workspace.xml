@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcad658-73ef-457d-8294-e461684883aa" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/addLoadEvent.js" afterPath="$PROJECT_DIR$/js/dom/addLoadEvent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/chapter10.js" afterPath="$PROJECT_DIR$/js/dom/chapter10.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/chapter7.js" afterPath="$PROJECT_DIR$/js/dom/chapter7.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/chapter9.js" afterPath="$PROJECT_DIR$/js/dom/chapter9.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/displayAbbreviations.js" afterPath="$PROJECT_DIR$/js/dom/displayAbbreviations.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/getHTTPObject.js" afterPath="$PROJECT_DIR$/js/dom/getHTTPObject.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/getNewContent.js" afterPath="$PROJECT_DIR$/js/dom/getNewContent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/insertAfter.js" afterPath="$PROJECT_DIR$/js/dom/insertAfter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/showpic.js" afterPath="$PROJECT_DIR$/js/dom/showpic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.html" afterPath="$PROJECT_DIR$/ajax.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter10.html" afterPath="$PROJECT_DIR$/chapter10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter4.html" afterPath="$PROJECT_DIR$/chapter4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter7.html" afterPath="$PROJECT_DIR$/chapter7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter8.html" afterPath="$PROJECT_DIR$/chapter8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter9.html" afterPath="$PROJECT_DIR$/chapter9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t.html" afterPath="$PROJECT_DIR$/t.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dom/showpic.js" afterPath="$PROJECT_DIR$/js/dom/showpic.js" />
     </list>
     <ignored path="websitegit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +31,8 @@
           <file leaf-file-name="chapter1.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/jquery/chapter1.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="379">
-                  <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+                <state relative-caret-position="409">
+                  <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
                   <folding>
                     <element signature="e#0#40#0" expanded="false" />
                   </folding>
@@ -62,7 +47,7 @@
           <file leaf-file-name="jq.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jq.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="415">
+                <state relative-caret-position="645">
                   <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
                   <folding />
                 </state>
@@ -507,7 +492,7 @@
       <updated>1486547386522</updated>
       <workItem from="1486547388146" duration="30314000" />
       <workItem from="1487423820414" duration="31021000" />
-      <workItem from="1488284678776" duration="16224000" />
+      <workItem from="1488284678776" duration="16659000" />
     </task>
     <task id="LOCAL-00001" summary="chapter8 and chapter9">
       <created>1488023348439</created>
@@ -537,23 +522,30 @@
       <option name="project" value="LOCAL" />
       <updated>1488355742111</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Start learn jQuery.&#10;Add jq.html and so on.">
+      <created>1488810884598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488810884598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77559000" />
+    <option name="totallyTimeSpent" value="77994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1663143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.503876" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2433735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49612403" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -582,7 +574,8 @@
     <MESSAGE value="add chapter9.js" />
     <MESSAGE value="add chapter9.css &#10;finish chapter9" />
     <MESSAGE value="add chapter10.html .js .css insertAfter.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add chapter10.html .js .css insertAfter.js" />
+    <MESSAGE value="Start learn jQuery.&#10;Add jq.html and so on." />
+    <option name="LAST_COMMIT_MESSAGE" value="Start learn jQuery.&#10;Add jq.html and so on." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -769,16 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/dom/addLoadEvent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc;n#addLoadEvent#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/dom/displayAbbreviations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -868,14 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/chapter10.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -931,21 +906,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery/chapter1.js">
+    <entry file="file://$PROJECT_DIR$/js/dom/addLoadEvent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#0#40#0" expanded="false" />
+            <element signature="n#!!doc;n#addLoadEvent#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="645">
           <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/chapter1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
