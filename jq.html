@@ -7,6 +7,8 @@
     <link rel="stylesheet" type="text/css" href="css/jq1.css" media="screen" />
 </head>
 <body>
+  <h1>Hello</h1>
+<!-- test1 list -->
   <div id="menu">
       <div class="has_children">
           <span>Chapter 1 Know jQuery</span>
@@ -37,17 +39,58 @@
           <a>3.4-Summary</a>
       </div>
   </div>
-  <input type="checkbox" id="cr" /><label for="cr">I readed it.</label>
+<!-- test2 choose the checkbox will alert-->
+  <input class="check t2" type="checkbox" id="cr" /><label for="cr">I readed it.</label>
+<!-- test3 click the content will alert-->
   <p>test1</p>
   <p>test2</p>
-  <tbody>
+<!--test4 change the color of table-->
+  <table>
     <tr><td>the first line</td><td>the first line</td></tr>
     <tr><td>the second line</td><td>the second line</td></tr>
     <tr><td>the third line</td><td>the third line</td></tr>
     <tr><td>the fourth line</td><td>the fourth line</td></tr>
     <tr><td>the fifth line</td><td>the fifth line</td></tr>
     <tr><td>the sixth line</td><td>the sixth line</td></tr>
-  </tbody>
+  </table>
+
+<!--test5 -->
+  <input class="check t5" type="checkbox" value="1" name="check" checked />
+  <input class="check t5" type="checkbox" value="2" name="check" />
+  <input class="check t5" type="checkbox" value="3" name="check" checked />
+  <input type="button" value="How many you choose" id="btn" />
+
+<!--test6 the use of jQuery Selector-->
+  <div class="one" id="one">
+      div id is one, class is one.
+      <div class="mini">class is mini</div>
+  </div>
+  <div class="one" id="two" title="test">
+      div id is two, class is one, title is test.
+      <div class="mini" title="other">class is mini, title is other.</div>
+      <div class="mini" title="test">class is mini,title is test.</div>
+  </div>
+  <div class="one">
+      <div class="mini">class is mini.</div>
+      <div class="mini">class is mini.</div>
+      <div class="mini">class is mini.</div>
+      <div class="mini"></div>
+  </div>
+  <div class="one">
+    <div class="mini">class is mini.</div>
+    <div class="mini">class is mini.</div>
+    <div class="mini">class is mini.</div>
+    <div class="mini" title="tesst">class is mini, title is tesst.</div>
+  </div>
+  <div style="display: none;" class="none">div style's display is none.</div>
+  <div class="hide">div class is hide.</div>
+  <div>
+      div includes input type is hidden.<input type="hidden" size="8" />
+  </div>
+  <span id="mover">span id is mover.</span>
+  <div>aaaa
+  <div class="mini">hhh aaasd</div>
+  </div>
   <script src="js/dom/addLoadEvent.js"></script>
   <script src="js/jquery/chapter1.js"></script>
 </body>
