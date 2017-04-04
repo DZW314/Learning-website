@@ -1,0 +1,17 @@
+.nojs selector{
+  style properties;
+}
+
+p {
+  color: red;
+}
+
+img {
+  width: 200px;
+  height: 260px;
+}
+
+video {
+  width: 400px;
+  height: 300px;
+}
